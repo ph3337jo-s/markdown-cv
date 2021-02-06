@@ -5,25 +5,24 @@ title: Philip Johansson's CV
 # Philip Johansson
 Physics graduate student at Lund University
 
-<div id="webaddress">
+`<div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
-
+`
 
 ## Currently
 
-Standing on the shoulders of giants
+Master's thesis in Mathematical Physics.
 
-### Specialized in
+`### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Non-equillibrium quantum transport
+`
+`### Research interests
 
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+`
 
 ## Education
 
