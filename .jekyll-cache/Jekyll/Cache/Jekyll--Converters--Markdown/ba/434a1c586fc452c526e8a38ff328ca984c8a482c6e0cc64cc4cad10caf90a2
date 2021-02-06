@@ -1,23 +1,17 @@
----
-layout: cv
-title: Philip Johansson's CV
----
-# Philip Johansson
-Physics Graduate student 
+I"ã<h1 id="philip-johansson">Philip Johansson</h1>
+<p>Physics Graduate student</p>
 
 <div id="webaddress">
 <a href="mailto:kjughx@gmail.com">kjughx@gmail.com</a>
 |
-<a href="tel:+46735361274">+46735361274</a>
-|
 <i class="fa fa-github"></i> <a href="http://github.com/ph3337jo-s">ph3337jo-s</a>
-</div>
+|
 
 
 ## __Currently__
 
-I'm a graduate level Physics student at [Lund University](https://www.lunduniversity.lu.se/), currently working on my Master's thesis in Mathematical physics. <br>
-I study quantum transport out of equillibrium, correlated systems and quantum thermodynamics with additional plans to <br>
+I'm a graduate level Physics student at [Lund University](https://www.lunduniversity.lu.se/), currently working on my Master's thesis in Mathematical physics. <br />
+I study quantum transport out of equillibrium, correlated systems and quantum thermodynamics with additional plans to <br />
 contribute to the numerical toolbox of Green's functions.
 
 ## __Education__
@@ -26,7 +20,7 @@ contribute to the numerical toolbox of Green's functions.
 __Lund University__ Masters of Science, Physics
 - Supervisor: Claudio Verdozzi 
 
-`2016-2019` 
+`2016-19` 
 __Lund University__ Bachelors of Science, Physics. 
 - Thesis: Entanglement of Auger and XPS Electrons: A preliminary investigation.
 - Main supervisor: Claudio Verdozzi
@@ -58,3 +52,5 @@ Available on request.
 <!-- ### Footer
 
 Last updated: May 2013 -->
+</div>
+:ET
