@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Philip Johansson's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Philip Johansson
+Physics graduate student at Lund University
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
